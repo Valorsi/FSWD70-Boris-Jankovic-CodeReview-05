@@ -9,7 +9,7 @@ $(document).ready(function() {
         $($(".like-counter")[i]).html(movies[i].like);
         //adds Like button Functionality
         $($(".btn-success")[i]).on('click', function() {
-        	movies[i].like = movies[i].like +1
+            movies[i].like = movies[i].like + 1
             $($(".like-counter")[i]).html(movies[i].like);
         });
 

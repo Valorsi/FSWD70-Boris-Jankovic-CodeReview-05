@@ -4,27 +4,32 @@ var movies = [
     "description": "John Wick goes on an awesome killing spree because some dude messed up his car and killed his dog.",
     "image": "img/john-wick.jpeg",
     "like": 44
-},{
+},
+{
     "name": "Your Name",
     "description": "A teenage boy and girl embark on a quest to meet each other for the first time after they magically swap bodies.",
     "image": "img/your-name.jpg",
     "like": 121
-},{
+},
+{
     "name": "Miami Connection",
     "description": "Multi-national martial arts rock band 'Dragon Sound' embark on a wreck-wave of crime-crushing justice, clamping down on Florida's narcotic trade.",
     "image": "img/miami-connection.jpg",
     "like": 29
-},{
+},
+{
     "name": "The Interview",
     "description": "When a TV host and his producer score an interview with Kim Jong-un, the CIA asks them to assassinate the dictator.",
     "image": "img/the-interview.jpg",
     "like": 51
-},{
+},
+{
     "name": "Deadpool",
     "description": "Deadpool goes on an awesome killing spree because some dude messed up his face and took his girlfriend.",
     "image": "img/deadpool.jpg",
     "like": 69
-},{
+},
+{
     "name": "You Don't Mess with the Zohan",
     "description": "Zohan Dvir is Israel's first line of defence against terrorism, but despite his prowess as a soldier, he dreams of becoming a hair stylist in New York.",
     "image": "img/zohan.jpg",
