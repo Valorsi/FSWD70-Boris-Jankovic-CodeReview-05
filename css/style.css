@@ -1,0 +1,30 @@
+.container {
+	background-color: #171E25;
+}
+
+.margin {
+	margin-top: 100px;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.background-dark {
+	background-color: #0F0F0F;
+}
+
+.resizer {
+	object-fit: contain;
+	width: 150px;
+	height: 250px;
+
+}
+
+.like-counter {
+	height: 50px;
+	width: 50px;
+	font-size: 30px;
+	color: white;
+}
